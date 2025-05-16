@@ -17,6 +17,9 @@ on:
   schedule:
     - cron: '0 5 * * *' # Time is UTC
 
+  push:
+    paths:
+      - 'errata/**'
 jobs:
   build-and-run:
   
