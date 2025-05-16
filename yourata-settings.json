@@ -19,7 +19,7 @@
     "MaxUpdateDwellTime": 900
   },
   "YouTube": {
-    "ChannelId": null,
+    "ChannelId": "UCEvt5rd7Mvh2slOs1vHYezg",
     "ErattaLinkLocation": "bottom",
     "ErrataLinkTemplate": "To see errata for this video: {0}",
     "ExcludePlaylists": null,
