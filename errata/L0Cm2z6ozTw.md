@@ -7,7 +7,7 @@ For full instructions see [README](../../..#readme)
 
 
 
-this is some incorrect errata
+this is some incorrect errata some more ratta 
 0:30 ------------------------------------------------  
 
 
